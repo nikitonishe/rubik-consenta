@@ -1,6 +1,6 @@
 {
   "name": "rubik-consenta",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "classes/Consenta.js",
   "repository": "github.com:nikitonishe/rubik-consenta.git",
   "author": "nikitandr <ns@indotech.ru>",
